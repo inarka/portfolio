@@ -6,7 +6,7 @@
 
 ## Использованные технологии и библиотеки
 
-**Язык программирования:** Python 3.7+
+**Язык программирования:** Python
 
 **Необходимые библиотеки:** pandas, matplotlib, seaborn, sklearn, catboost, scipy, statsmodels, phik, os.
 
